@@ -1,8 +1,5 @@
 <h1>Hi, I'm Gavin!<br/> <a href="https://www.linkedin.com/in/gavinlenuzza/">I am interested in Information Technology, Netwoirking and Cybersecurity </a>
 
-<h2>Description</h2>
-I am currently a Subway manager in Ipswich. I am looking to apply my skills and Education to transition into the information technology field. My biggest dream is to be apart of the Australian Space agency supporting the county in this new wonderous endeavour. </h2>
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Subway staff customer Java project</b>
