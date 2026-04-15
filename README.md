@@ -12,8 +12,8 @@
 
 <h2>👨‍💻 Networking projects:</h2>
 
-- <b>Wide Are Networt Packet tracer</b>
-  - [Title](Github link)
+- <b>Wide Are Network Packet tracer</b>
+  - [WAN project with Packet Tracer](https://github.com/gavinlenuzza-rgb/WAN-project-with-Packet-tracer)
 
 <H2>Software</H2>
 - Visio
