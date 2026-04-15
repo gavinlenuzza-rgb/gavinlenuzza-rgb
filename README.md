@@ -3,12 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Subway staff customer Java project</b>
-  - [Title](Github link)
+  - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - <b>Active Directory Powershell project</b>
-  - [Title](Github link)
+  - [Active-Directory-project-with-PowerShell](https://github.com/gavinlenuzza-rgb/Active-Directory-project-with-PowerShell)
 
 <h2>👨‍💻 Networking projects:</h2>
 
