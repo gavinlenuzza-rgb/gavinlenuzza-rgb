@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Subway staff customer Java project</b>
+- <b>Subway Platter order ingredients requirement Java with Maven project</b>
   - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
