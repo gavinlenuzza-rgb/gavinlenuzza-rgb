@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Subway Platter order ingredients requirement Java with Maven project</b>
+- <b>Subway Platter order ingredients requirement Java with Maven project - In Progress</b>
   - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- <b>Active Directory Powershell project</b>
+- <b>Active Directory Powershell project - Not Currently Available</b>
   - [Active-Directory-project-with-PowerShell](https://github.com/gavinlenuzza-rgb/Active-Directory-project-with-PowerShell)
 
 <h2>👨‍💻 Networking projects:</h2>
 
-- <b>Wide Are Network Packet tracer</b>
+- <b>Wide Are Network Packet tracer - Completed</b>
   - [WAN project with Packet Tracer](https://github.com/gavinlenuzza-rgb/WAN-project-with-Packet-tracer)
 
 <H2>Software</H2>
