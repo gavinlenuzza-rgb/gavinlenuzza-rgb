@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gavin!<br/> <a href="https://www.linkedin.com/in/gavinlenuzza/">I am interested in Information Technology, Netwoirking and Cybersecurity </a>
+<h1>Hi, I'm Gavin!<br/> <a href="https://www.linkedin.com/in/gavinlenuzza/">I am interested in Information Technology, Networking and Cybersecurity </a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
