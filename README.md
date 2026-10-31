@@ -24,9 +24,9 @@
   - [WAN project with Packet Tracer](https://github.com/gavinlenuzza-rgb/WAN-project-with-Packet-tracer)
 
 <H2>Software</H2>
-<a>- Visio</a>  
-<a>- Packet Tracer</a>  
-<a>- Apache Netbeans IDE</a>  
+- Visio</br>  
+- Packet Tracer</br>  
+- Apache Netbeans IDE</br>  
 
 <h2>Cerifications</h2>
 - <a href="https://github.com/gavinlenuzza-rgb/gavinlenuzza-rgb/blob/5409e98f9b47bb233106b82b7b548b9fbf3b4240/Microsoft%20professional.jpg">[Microsoft professional]  
