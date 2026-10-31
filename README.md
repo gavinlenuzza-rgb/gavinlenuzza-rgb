@@ -24,7 +24,7 @@
   - [WAN project with Packet Tracer](https://github.com/gavinlenuzza-rgb/WAN-project-with-Packet-tracer)
 
 <H2>Software</H2>
-- Visio  
+<a>- Visio</a>  
 - Packet Tracer  
 - Apache Netbeans IDE  
 
@@ -32,9 +32,9 @@
 - <a href="https://github.com/gavinlenuzza-rgb/gavinlenuzza-rgb/blob/5409e98f9b47bb233106b82b7b548b9fbf3b4240/Microsoft%20professional.jpg">[Microsoft professional]  
   
 - <a href="https://github.com/gavinlenuzza-rgb/gavinlenuzza-rgb/blob/5409e98f9b47bb233106b82b7b548b9fbf3b4240/Google%20AI%202026-04-06.jpg">[Google AI professional]
-- 
+
 - <a href="https://github.com/gavinlenuzza-rgb/gavinlenuzza-rgb/blob/5409e98f9b47bb233106b82b7b548b9fbf3b4240/Microsoft%20professional.jpg">[La Trobe Associate Applied Information Technology]
-- 
+
 
 
 <!--
