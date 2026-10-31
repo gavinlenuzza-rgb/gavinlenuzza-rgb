@@ -5,13 +5,18 @@
 - <b>Subway Platter order ingredients requirement Java with Maven project - In Progress</b>
 
 <a>The vision for this project will be including - </a>
-<a> Project time planner / Work Rostering ***Program to be decided on at a later date*** </a>
-<a> Front end & backend object orientated java programming to accept an input from the customer including name contact details catering order, calculate the quantity of each ingredient, output the total ingredient quantity, save to a NO-SQL database</a>
-  - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
-<a> NO-SQL database to store each catering order and their contact information </a>
+<a> Project time planner / Work Rostering ***Program to be decided on at a later date***  
 
-<a> Cloud databasing with Azure ***add more details*** </a>
-<a> Security permissions and user levels </a>
+<a> Front end & backend object orientated java programming to accept an input from the customer including name contact details catering order, calculate the quantity of each ingredient, output the total ingredient quantity, save to a NO-SQL database</a>  
+
+  - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
+    
+<a> NO-SQL database to store each catering order and their contact information </a>  
+
+<a> Cloud databasing with Azure ***add more details*** </a>  
+
+<a> Security permissions and user levels </a>  
+
 
 <h2>👨‍💻 Networking projects:</h2>
 
