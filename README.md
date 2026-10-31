@@ -1,14 +1,17 @@
 <h1>Hi, I'm Gavin!<br/> <a href="https://www.linkedin.com/in/gavinlenuzza/">I am interested in Information Technology, Networking and Cybersecurity </a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Large Project - Subway online order ingredient requirement :</h2>
 
 - <b>Subway Platter order ingredients requirement Java with Maven project - In Progress</b>
+
+<a>The vision for this project will be including - </a>
+<a> Project time planner / Work Rostering ***Program to be decided on at a later date*** </a>
+<a> Front end & backend object orientated java programming to accept an input from the customer including name contact details catering order, calculate the quantity of each ingredient, output the total ingredient quantity, save to a NO-SQL database</a>
   - [Subway-Project-with-Java](https://github.com/gavinlenuzza-rgb/Subway-Project-with-Java)
+<a> NO-SQL database to store each catering order and their contact information </a>
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
-
-- <b>Active Directory Powershell project - Not Currently Available</b>
-  - [Active-Directory-project-with-PowerShell](https://github.com/gavinlenuzza-rgb/Active-Directory-project-with-PowerShell)
+<a> Cloud databasing with Azure ***add more details*** </a>
+<a> Security permissions and user levels </a>
 
 <h2>👨‍💻 Networking projects:</h2>
 
@@ -18,7 +21,6 @@
 <H2>Software</H2>
 - Visio
 - Packet Tracer
-- PowerShell
 - Apache Netbeans IDE
 
 <h2>Cerifications</h2>
